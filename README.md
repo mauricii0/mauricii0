@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mauricii0
-- 🌱 I’m currently learning Portuguese
 
 
 <!---
